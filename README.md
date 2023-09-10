@@ -8,8 +8,8 @@
 
 ### Связь:
 ![](/MVVM.PNG)
-![](/MVVM 2.PNG)
-![](/MVVM 3.PNG)
+![](/MVVM2.PNG)
+![](/MVVM3.PNG)
 
 ### Ключевые моменты MVVM:
 1) Похож чем-то на MVP, только вместо *presenter*, в MVVM *ViewModel*;
